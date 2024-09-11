@@ -24,7 +24,7 @@ public:
 int main(){
     ll x,y;
     char z;
-    cout<<"Enter the calculatio: ";
+    cout<<"Enter the calculation: ";
     cin>>x>>z>>y;
     calculation cal(x,z,y);
     if(z=='+')
